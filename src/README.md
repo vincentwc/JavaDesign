@@ -15,5 +15,5 @@
 - 合成复用原则(Composite Reuse Principle, CRP)：尽量使用对象组合，而不是继承来达到复用的目的
 - 迪米特法则(Law of  Demeter, LoD)：一个软件实体应当尽可能少地与其他实体发生相互作用
 
-包的分类：
+包的概述：
 factory.SimpleFactory 简单工厂
