@@ -21,3 +21,4 @@ factory.MethodFactory 方法工厂
 factory.AbstractFactory 抽象工厂
 factory.Singleton 单例模式
 prototype 原型模式
+builder 建造者模式
